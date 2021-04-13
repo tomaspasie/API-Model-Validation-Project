@@ -7,7 +7,7 @@
 
 ### Assignment: Set Up Validation
 
-## Validation was added and all video tutorial were completed.  
+## Validation was added and all video tutorial were completed. - SEE MASTER BRANCH 
 
 # Screenshot - Model Validation Example
 ![Validation-Example](/Validation-Example.png "Validation-Example")  
