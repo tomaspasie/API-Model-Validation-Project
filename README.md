@@ -5,9 +5,11 @@
 
 # Homework: Module 11 - VALIDATION
 
+# SEE MASTER BRANCH
+
 ### Assignment: Set Up Validation
 
-## Validation was added and all video tutorial were completed. - SEE MASTER BRANCH 
+## Validation was added and all video tutorial were completed. 
 
 # Screenshot - Model Validation Example
 ![Validation-Example](/Validation-Example.png "Validation-Example")  
