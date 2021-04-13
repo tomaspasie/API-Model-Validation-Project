@@ -7,4 +7,7 @@
 
 ### Assignment: Set Up Validation
 
-# Screenshots of Validation  
+## Validation was added and all video tutorial were completed.  
+
+# Screenshot - Model Validation Example
+![Validation-Example](/Validation-Example.png "Validation-Example")  
