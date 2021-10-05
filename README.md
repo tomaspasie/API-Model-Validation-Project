@@ -2,7 +2,7 @@
 
 # SEE MASTER BRANCH
 
-### Goal: Set Up Validation
+### Goal: Set Up Model Validation
 
 Done by Tomas Pasiecznik:
 
