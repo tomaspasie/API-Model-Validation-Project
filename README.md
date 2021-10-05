@@ -1,13 +1,12 @@
-###### Tomas Pasiecznik
-###### Professor Williams
-###### IS 421-002
-###### 13 April 2021
+# API Model Validation Project
 
-# Homework: Module 11 - VALIDATION
+# SEE MASTER BRANCH
 
-### Assignment: Set Up Validation
+### Goal: Set Up Model Validation
 
-## Validation was added and all video tutorial were completed.
+Done by Tomas Pasiecznik:
+
+## Validation was added and all video tutorial were completed. 
 
 # Screenshot - Model Validation Example
 ![Validation-Example](/Validation-Example.png "Validation-Example")  
