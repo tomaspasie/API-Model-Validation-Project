@@ -4,7 +4,7 @@
 
 ### Goal: Set Up Validation
 
-Done by Tomas Pasiecznik
+Done by Tomas Pasiecznik:
 
 ## Validation was added and all video tutorial were completed. 
 
